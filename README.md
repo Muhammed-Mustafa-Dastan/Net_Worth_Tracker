@@ -1,3 +1,5 @@
+> NOTE: This project is not originally mine. It was created by the incredibly talented YouTube channel [The Office Lab](https://www.youtube.com/@theofficelab) , which published a nearly 10-hour tutorial that I followed to build this tracker. I highly recommend their content to anyone interested in Excel dashboards, finance, and productivity. Their tutorials are insightful, detailed, and incredibly well-structured – this project is a testament to that. Huge thanks to [The Office Lab](https://www.youtube.com/@theofficelab) for making this learning experience possible.
+
 # 🧭 Net Worth Tracker – Personal Finance Dashboard
 
 `"Financial awareness is the first step to freedom."This project is designed to provide a clear, organized, and customizable Excel-based system to easily track your wealth, debts, and contributions in one place.`
@@ -73,6 +75,8 @@ This is where you configure the key parameters that define how your tracker beha
 
 This is the core of the system – the engine room where all your financial data is entered, updated, and calculated over time.
 
+![Ekran görüntüsü 2025-04-10 094418](https://github.com/user-attachments/assets/804b5ae2-ad40-484a-bc33-bdef9cd911f0)
+
 #### 🔧 Main Features:
 
 * Monthly Asset & Liability Tracking: Input values for all your defined asset and liability categories.
@@ -106,3 +110,95 @@ This is the core of the system – the engine room where all your financial data
 * Helps identify patterns, such as seasonal expenses or investment gains.
 
 * Serves as the data backbone for your dashboard and leverage ratio analytics.
+
+---
+
+💸 Contributions Tracking Sheet
+
+This sheet captures the dynamic flow of your money – every contribution, expense, and income movement throughout the months.
+
+![Ekran görüntüsü 2025-04-10 094407](https://github.com/user-attachments/assets/69280151-b71c-44be-baa2-4a5502f18a8c)
+
+🔧 Main Features:
+
+Detailed Inflow/Outflow Logging: Categorize and input each monthly transaction.
+
+Custom Transaction Types: Create your own types like Salary, Freelance, Utilities, Groceries, etc.
+
+Cash Flow Balance Calculation: Monthly balances are auto-calculated based on total inflows and outflows.
+
+Links to Net Worth Calculations: Directly affects your cash and liquid categories in the Net Worth Tracking sheet.
+
+📘 How to Use It:
+
+Each row is a new transaction.
+
+Columns capture the month, transaction type, amount, and whether it's income or expense.
+
+Use filters or pivot tables (if desired) to create your own summaries.
+
+👥 Who Should Use It:
+
+People aiming to control monthly spending habits.
+
+Those looking to track savings discipline.
+
+Users who want to drill down into where money comes from and where it goes.
+
+🌱 How It Helps:
+
+Promotes spending awareness and intentionality.
+
+Enhances budgeting precision.
+
+Creates a narrative around your financial habits, making reflection and adjustment easier.
+
+---
+
+📈 Dashboard Sheet
+
+The visual heart of the tracker. This is where numbers come to life and tell a story.
+
+![Ekran görüntüsü 2025-04-10 094358](https://github.com/user-attachments/assets/6ab2dd1f-7cdb-43ad-9ad5-1dd8394b9faa)
+
+🔧 Main Features:
+
+Net Worth Chart: See your net worth progress over time in a clear line graph.
+
+Asset vs. Liability Comparison: Stacked bar charts help you visualize how your assets and debts interact.
+
+Leverage Ratio Visual: Easily track how leveraged you are month-by-month.
+
+Category-Based Distribution: Pie charts show asset and liability breakdowns for the latest tracked month.
+
+Goal Tracking: Compare current values with predefined financial goals to track your progress.
+
+Cash Flow Summary: See your income, expenses, and net flow in a clean, visual summary.
+
+📘 How to Use It:
+
+This sheet is read-only and fully powered by the data in other sheets.
+
+Just update your data regularly in the Net Worth and Contributions sheets.
+
+Customize chart types and layouts if needed – the visuals are linked dynamically.
+
+👥 Who Should Use It:
+
+Visual learners and data-driven decision makers.
+
+Anyone looking for motivation through progress tracking.
+
+People who want to share their financial journey or review it with an advisor.
+
+🌱 How It Helps:
+
+Transforms raw data into actionable insight.
+
+Boosts motivation and clarity by showcasing real progress.
+
+Helps identify financial strengths and weaknesses at a glance.
+
+---
+
+https://github.com/user-attachments/assets/f776145c-4935-4e8a-a362-eff3c828daa9
